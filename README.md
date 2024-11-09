@@ -1,6 +1,3 @@
-Here's the full markdown file for **Stateyze** with all sections included, including the migration guide and examples:
-
-````md
 # Stateyze
 
 A lightweight state management library for React applications.
@@ -12,7 +9,6 @@ npm install stateyze
 # or
 yarn add stateyze
 ```
-````
 
 ## Features
 
