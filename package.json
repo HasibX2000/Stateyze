@@ -1,6 +1,6 @@
 {
   "name": "stateyze",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "A lightweight state management library for React",
   "main": "dist/index.js",
