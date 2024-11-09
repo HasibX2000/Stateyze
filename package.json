@@ -20,9 +20,15 @@
     "state",
     "state-management",
     "hooks",
-    "store"
+    "store",
+    "stateyze",
+    "state-tool"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HasibX2000/Stateyze"
+  },
+  "author": "Akon M Hasib",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",

@@ -285,4 +285,5 @@ In summary, transitioning from Zustand to Stateyze is quite easy and involves si
 
 ## License
 
-MIT, © [Akon M Hasib]
+MIT
+© Akon M Hasib
